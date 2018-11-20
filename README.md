@@ -3,3 +3,5 @@
 Šiame projekte įgyvendintas prisijungimas, registracija, užmiršto slaptažodžio atsigrąžinimas bei duomenų įdėjimas
 į Realtime Database.
 Projektui įgyvendinti naudojau Firebase Realtime Database, Firebase Authentication.
+
+PI16B Adomas Abraitis
