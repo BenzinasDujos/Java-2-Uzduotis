@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1033913498047",
+    "firebase_url": "https://fir-projektasss.firebaseio.com",
+    "project_id": "fir-projektasss",
+    "storage_bucket": "fir-projektasss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033913498047:android:c2fc4bac64c8b9ca",
+        "android_client_info": {
+          "package_name": "com.example.adomas.firebaseprojektasss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033913498047-gh9q4t70vbjgeal12t2e4b7hvjiapmkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8638PVe67Xrz6x3MSgJ0s-g__fH4sDt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
